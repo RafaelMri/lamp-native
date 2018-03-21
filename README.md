@@ -1,14 +1,13 @@
-# lamp
+# Lamp Native
 
-A Clojure library designed to ... well, that part is up to you.
+A peer-to-peer exchange client for the [Stellar](https://www.stellar.org/) financial network.
 
 ## Usage
 
-FIXME
+FIXME`
 
 ## License
 
-Copyright © 2018 FIXME
+Copyright © 2018 Isaac Johnston and [contributors](https://github.com/xlm-sg/lamp-native/contributors).
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License 1.0, the same as Clojure.
