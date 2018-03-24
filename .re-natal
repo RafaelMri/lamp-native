@@ -7,7 +7,8 @@
   },
   "modules": [
     "native-base",
-    "./native-base-theme/components"
+    "./native-base-theme/components",
+    "./native-base-theme/variables/material"
   ],
   "imageDirs": [
     "images"
